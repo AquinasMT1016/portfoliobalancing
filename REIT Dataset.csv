@@ -1,0 +1,257 @@
+﻿AssetType,Year,Growth
+REIT Aggregate,1972,11%
+REIT Aggregate,1973,-27%
+REIT Aggregate,1974,-42%
+REIT Aggregate,1975,36%
+REIT Aggregate,1976,49%
+REIT Aggregate,1977,19%
+REIT Aggregate,1978,-2%
+REIT Aggregate,1979,31%
+REIT Aggregate,1980,28%
+REIT Aggregate,1981,9%
+REIT Aggregate,1982,32%
+REIT Aggregate,1983,25%
+REIT Aggregate,1984,15%
+REIT Aggregate,1985,6%
+REIT Aggregate,1986,19%
+REIT Aggregate,1987,-11%
+REIT Aggregate,1988,11%
+REIT Aggregate,1989,-2%
+REIT Aggregate,1990,-17%
+REIT Aggregate,1991,36%
+REIT Aggregate,1992,12%
+REIT Aggregate,1993,19%
+REIT Aggregate,1994,1%
+REIT Aggregate,1995,18%
+REIT Aggregate,1996,36%
+REIT Aggregate,1997,19%
+REIT Aggregate,1998,-19%
+REIT Aggregate,1999,-6%
+REIT Aggregate,2000,26%
+REIT Aggregate,2001,16%
+REIT Aggregate,2002,5%
+REIT Aggregate,2003,38%
+REIT Aggregate,2004,30%
+REIT Aggregate,2005,8%
+REIT Aggregate,2006,34%
+REIT Aggregate,2007,-18%
+REIT Aggregate,2008,-37%
+REIT Aggregate,2009,27%
+REIT Aggregate,2010,28%
+REIT Aggregate,2011,7%
+REIT Aggregate,2012,20%
+REIT Aggregate,2013,3%
+REIT Aggregate,2014,27%
+REIT Aggregate,2015,2%
+REIT Aggregate,2016,9%
+REIT Aggregate,2017,9%
+REIT Aggregate,2018,-4%
+REIT Aggregate,2019,28%
+REIT Offices,1994,2.9%
+REIT Offices,1995,38.8%
+REIT Offices,1996,51.8%
+REIT Offices,1997,29.0%
+REIT Offices,1998,-17.3%
+REIT Offices,1999,4.3%
+REIT Offices,2000,35.5%
+REIT Offices,2001,6.6%
+REIT Offices,2002,-6.3%
+REIT Offices,2003,34.0%
+REIT Offices,2004,23.3%
+REIT Offices,2005,13.1%
+REIT Offices,2006,45.2%
+REIT Offices,2007,-19.0%
+REIT Offices,2008,-41.1%
+REIT Offices,2009,35.5%
+REIT Offices,2010,18.4%
+REIT Offices,2011,-0.8%
+REIT Offices,2012,14.2%
+REIT Offices,2013,5.6%
+REIT Offices,2014,25.9%
+REIT Offices,2015,0.3%
+REIT Offices,2016,13.2%
+REIT Offices,2017,5.2%
+REIT Offices,2018,-14.5%
+REIT Offices,2019,31.4%
+REIT Industrial,1994,18.7%
+REIT Industrial,1995,16.2%
+REIT Industrial,1996,37.2%
+REIT Industrial,1997,19.0%
+REIT Industrial,1998,-11.7%
+REIT Industrial,1999,3.9%
+REIT Industrial,2000,28.6%
+REIT Industrial,2001,7.4%
+REIT Industrial,2002,17.3%
+REIT Industrial,2003,33.1%
+REIT Industrial,2004,34.1%
+REIT Industrial,2005,15.4%
+REIT Industrial,2006,28.9%
+REIT Industrial,2007,0.4%
+REIT Industrial,2008,-67.5%
+REIT Industrial,2009,12.2%
+REIT Industrial,2010,18.9%
+REIT Industrial,2011,-5.2%
+REIT Industrial,2012,31.3%
+REIT Industrial,2013,7.4%
+REIT Industrial,2014,21.0%
+REIT Industrial,2015,2.6%
+REIT Industrial,2016,30.7%
+REIT Industrial,2017,20.6%
+REIT Industrial,2018,-2.5%
+REIT Industrial,2019,48.7%
+REIT Retail,1994,3.0%
+REIT Retail,1995,5.1%
+REIT Retail,1996,34.6%
+REIT Retail,1997,16.9%
+REIT Retail,1998,-4.7%
+REIT Retail,1999,-11.8%
+REIT Retail,2000,18.0%
+REIT Retail,2001,30.4%
+REIT Retail,2002,21.1%
+REIT Retail,2003,46.8%
+REIT Retail,2004,40.2%
+REIT Retail,2005,11.8%
+REIT Retail,2006,29.0%
+REIT Retail,2007,-15.8%
+REIT Retail,2008,-48.4%
+REIT Retail,2009,27.2%
+REIT Retail,2010,33.4%
+REIT Retail,2011,12.2%
+REIT Retail,2012,26.7%
+REIT Retail,2013,1.9%
+REIT Retail,2014,27.6%
+REIT Retail,2015,4.6%
+REIT Retail,2016,0.9%
+REIT Retail,2017,-4.8%
+REIT Retail,2018,-5.0%
+REIT Retail,2019,10.7%
+REIT Residential,1994,2.3%
+REIT Residential,1995,12.0%
+REIT Residential,1996,29.5%
+REIT Residential,1997,16.3%
+REIT Residential,1998,-8.1%
+REIT Residential,1999,9.5%
+REIT Residential,2000,34.3%
+REIT Residential,2001,9.0%
+REIT Residential,2002,-6.0%
+REIT Residential,2003,25.9%
+REIT Residential,2004,32.7%
+REIT Residential,2005,13.7%
+REIT Residential,2006,38.9%
+REIT Residential,2007,-25.2%
+REIT Residential,2008,-24.9%
+REIT Residential,2009,30.8%
+REIT Residential,2010,46.0%
+REIT Residential,2011,15.4%
+REIT Residential,2012,6.9%
+REIT Residential,2013,-5.4%
+REIT Residential,2014,40.0%
+REIT Residential,2015,17.1%
+REIT Residential,2016,4.5%
+REIT Residential,2017,6.6%
+REIT Residential,2018,3.1%
+REIT Residential,2019,30.9%
+REIT Health Care,1994,4.1%
+REIT Health Care,1995,24.9%
+REIT Health Care,1996,20.4%
+REIT Health Care,1997,15.8%
+REIT Health Care,1998,-17.4%
+REIT Health Care,1999,-24.8%
+REIT Health Care,2000,25.8%
+REIT Health Care,2001,51.9%
+REIT Health Care,2002,4.8%
+REIT Health Care,2003,53.6%
+REIT Health Care,2004,21.0%
+REIT Health Care,2005,1.8%
+REIT Health Care,2006,44.5%
+REIT Health Care,2007,2.1%
+REIT Health Care,2008,-12.0%
+REIT Health Care,2009,24.6%
+REIT Health Care,2010,19.2%
+REIT Health Care,2011,13.6%
+REIT Health Care,2012,20.4%
+REIT Health Care,2013,-7.1%
+REIT Health Care,2014,33.3%
+REIT Health Care,2015,-7.2%
+REIT Health Care,2016,6.4%
+REIT Health Care,2017,0.9%
+REIT Health Care,2018,7.6%
+REIT Health Care,2019,21.2%
+REIT Lodging,1994,-8.9%
+REIT Lodging,1995,30.8%
+REIT Lodging,1996,49.2%
+REIT Lodging,1997,30.1%
+REIT Lodging,1998,-52.8%
+REIT Lodging,1999,-16.1%
+REIT Lodging,2000,45.8%
+REIT Lodging,2001,-8.6%
+REIT Lodging,2002,-1.5%
+REIT Lodging,2003,31.7%
+REIT Lodging,2004,32.7%
+REIT Lodging,2005,9.8%
+REIT Lodging,2006,28.2%
+REIT Lodging,2007,-22.4%
+REIT Lodging,2008,-59.7%
+REIT Lodging,2009,67.2%
+REIT Lodging,2010,42.8%
+REIT Lodging,2011,-14.3%
+REIT Lodging,2012,12.5%
+REIT Lodging,2013,27.2%
+REIT Lodging,2014,32.5%
+REIT Lodging,2015,-24.4%
+REIT Lodging,2016,24.3%
+REIT Lodging,2017,7.2%
+REIT Lodging,2018,-12.8%
+REIT Lodging,2019,15.7%
+REIT Storage,1994,8.9%
+REIT Storage,1995,34.4%
+REIT Storage,1996,42.8%
+REIT Storage,1997,3.4%
+REIT Storage,1998,-7.2%
+REIT Storage,1999,-8.0%
+REIT Storage,2000,14.7%
+REIT Storage,2001,43.2%
+REIT Storage,2002,0.6%
+REIT Storage,2003,38.1%
+REIT Storage,2004,29.7%
+REIT Storage,2005,26.5%
+REIT Storage,2006,40.9%
+REIT Storage,2007,-24.8%
+REIT Storage,2008,5.0%
+REIT Storage,2009,8.4%
+REIT Storage,2010,29.3%
+REIT Storage,2011,35.2%
+REIT Storage,2012,19.9%
+REIT Storage,2013,9.5%
+REIT Storage,2014,31.4%
+REIT Storage,2015,40.6%
+REIT Storage,2016,-8.1%
+REIT Storage,2017,3.7%
+REIT Storage,2018,2.9%
+REIT Storage,2019,13.7%
+REIT Mortgage,1994,-24.3%
+REIT Mortgage,1995,63.4%
+REIT Mortgage,1996,50.9%
+REIT Mortgage,1997,3.8%
+REIT Mortgage,1998,-29.2%
+REIT Mortgage,1999,-33.2%
+REIT Mortgage,2000,16.0%
+REIT Mortgage,2001,77.3%
+REIT Mortgage,2002,31.1%
+REIT Mortgage,2003,57.4%
+REIT Mortgage,2004,18.4%
+REIT Mortgage,2005,-23.2%
+REIT Mortgage,2006,19.3%
+REIT Mortgage,2007,-42.3%
+REIT Mortgage,2008,-31.3%
+REIT Mortgage,2009,24.6%
+REIT Mortgage,2010,22.6%
+REIT Mortgage,2011,-2.4%
+REIT Mortgage,2012,19.9%
+REIT Mortgage,2013,-2.0%
+REIT Mortgage,2014,17.9%
+REIT Mortgage,2015,-8.9%
+REIT Mortgage,2016,22.8%
+REIT Mortgage,2017,19.8%
+REIT Mortgage,2018,-2.5%
+REIT Mortgage,2019,21.3%

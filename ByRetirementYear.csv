@@ -1,0 +1,451 @@
+﻿AssetType,Year,Growth
+Cash & Near: 3mo T-bill,1990,6.5%
+Cash & Near: 3mo T-bill,1991,6.6%
+Cash & Near: 3mo T-bill,1992,6.7%
+Cash & Near: 3mo T-bill,1993,6.6%
+Cash & Near: 3mo T-bill,1994,6.7%
+Cash & Near: 3mo T-bill,1995,6.7%
+Cash & Near: 3mo T-bill,1996,6.7%
+Cash & Near: 3mo T-bill,1997,6.7%
+Cash & Near: 3mo T-bill,1998,6.7%
+Cash & Near: 3mo T-bill,1999,6.7%
+Cash & Near: 3mo T-bill,2000,6.6%
+Cash & Near: 3mo T-bill,2001,6.6%
+Cash & Near: 3mo T-bill,2002,6.5%
+Cash & Near: 3mo T-bill,2003,6.3%
+Cash & Near: 3mo T-bill,2004,6.1%
+Cash & Near: 3mo T-bill,2005,6.0%
+Cash & Near: 3mo T-bill,2006,6.0%
+Cash & Near: 3mo T-bill,2007,6.0%
+Cash & Near: 3mo T-bill,2008,5.8%
+Cash & Near: 3mo T-bill,2009,5.5%
+Cash & Near: 3mo T-bill,2010,5.1%
+Cash & Near: 3mo T-bill,2011,4.6%
+Cash & Near: 3mo T-bill,2012,4.3%
+Cash & Near: 3mo T-bill,2013,4.0%
+Cash & Near: 3mo T-bill,2014,3.7%
+Cash & Near: 3mo T-bill,2015,3.4%
+Cash & Near: 3mo T-bill,2016,3.2%
+Cash & Near: 3mo T-bill,2017,3.1%
+Cash & Near: 3mo T-bill,2018,2.9%
+Cash & Near: 3mo T-bill,2019,2.7%
+Bonds: Aggregate,1990,12.4%
+Bonds: Aggregate,1991,12.7%
+Bonds: Aggregate,1992,12.3%
+Bonds: Aggregate,1993,12.1%
+Bonds: Aggregate,1994,11.1%
+Bonds: Aggregate,1995,11.6%
+Bonds: Aggregate,1996,11.1%
+Bonds: Aggregate,1997,11.0%
+Bonds: Aggregate,1998,10.9%
+Bonds: Aggregate,1999,10.3%
+Bonds: Aggregate,2000,10.4%
+Bonds: Aggregate,2001,10.3%
+Bonds: Aggregate,2002,10.3%
+Bonds: Aggregate,2003,10.0%
+Bonds: Aggregate,2004,9.8%
+Bonds: Aggregate,2005,9.5%
+Bonds: Aggregate,2006,9.3%
+Bonds: Aggregate,2007,9.2%
+Bonds: Aggregate,2008,9.1%
+Bonds: Aggregate,2009,9.0%
+Bonds: Aggregate,2010,9.1%
+Bonds: Aggregate,2011,9.2%
+Bonds: Aggregate,2012,8.2%
+Bonds: Aggregate,2013,7.9%
+Bonds: Aggregate,2014,7.6%
+Bonds: Aggregate,2015,6.9%
+Bonds: Aggregate,2016,6.4%
+Bonds: Aggregate,2017,6.5%
+Bonds: Aggregate,2018,6.2%
+Bonds: Aggregate,2019,6.0%
+Stocks: Dow Jones,1990,6.2%
+Stocks: Dow Jones,1991,6.2%
+Stocks: Dow Jones,1992,6.7%
+Stocks: Dow Jones,1993,6.6%
+Stocks: Dow Jones,1994,6.2%
+Stocks: Dow Jones,1995,7.0%
+Stocks: Dow Jones,1996,8.5%
+Stocks: Dow Jones,1997,8.7%
+Stocks: Dow Jones,1998,9.1%
+Stocks: Dow Jones,1999,10.5%
+Stocks: Dow Jones,2000,10.1%
+Stocks: Dow Jones,2001,9.7%
+Stocks: Dow Jones,2002,8.6%
+Stocks: Dow Jones,2003,10.0%
+Stocks: Dow Jones,2004,11.0%
+Stocks: Dow Jones,2005,9.7%
+Stocks: Dow Jones,2006,9.7%
+Stocks: Dow Jones,2007,10.5%
+Stocks: Dow Jones,2008,9.4%
+Stocks: Dow Jones,2009,9.9%
+Stocks: Dow Jones,2010,9.8%
+Stocks: Dow Jones,2011,10.3%
+Stocks: Dow Jones,2012,9.9%
+Stocks: Dow Jones,2013,10.1%
+Stocks: Dow Jones,2014,10.5%
+Stocks: Dow Jones,2015,9.5%
+Stocks: Dow Jones,2016,9.2%
+Stocks: Dow Jones,2017,9.9%
+Stocks: Dow Jones,2018,9.3%
+Stocks: Dow Jones,2019,9.2%
+Metals: Gold,1990,11.4%
+Metals: Gold,1991,11.2%
+Metals: Gold,1992,11.1%
+Metals: Gold,1993,11.2%
+Metals: Gold,1994,11.5%
+Metals: Gold,1995,11.5%
+Metals: Gold,1996,11.5%
+Metals: Gold,1997,11.0%
+Metals: Gold,1998,10.3%
+Metals: Gold,1999,9.9%
+Metals: Gold,2000,10.3%
+Metals: Gold,2001,9.8%
+Metals: Gold,2002,8.8%
+Metals: Gold,2003,7.2%
+Metals: Gold,2004,5.5%
+Metals: Gold,2005,5.7%
+Metals: Gold,2006,7.7%
+Metals: Gold,2007,7.6%
+Metals: Gold,2008,7.4%
+Metals: Gold,2009,5.8%
+Metals: Gold,2010,3.3%
+Metals: Gold,2011,5.1%
+Metals: Gold,2012,5.9%
+Metals: Gold,2013,5.0%
+Metals: Gold,2014,5.1%
+Metals: Gold,2015,5.3%
+Metals: Gold,2016,5.0%
+Metals: Gold,2017,4.3%
+Metals: Gold,2018,4.4%
+Metals: Gold,2019,5.2%
+Bonds: High Yield,1990,29.2%
+Bonds: High Yield,1991,30.4%
+Bonds: High Yield,1992,29.4%
+Bonds: High Yield,1993,28.7%
+Bonds: High Yield,1994,26.6%
+Bonds: High Yield,1995,26.3%
+Bonds: High Yield,1996,25.4%
+Bonds: High Yield,1997,24.8%
+Bonds: High Yield,1998,23.7%
+Bonds: High Yield,1999,22.6%
+Bonds: High Yield,2000,21.3%
+Bonds: High Yield,2001,20.5%
+Bonds: High Yield,2002,19.6%
+Bonds: High Yield,2003,19.9%
+Bonds: High Yield,2004,19.6%
+Bonds: High Yield,2005,18.9%
+Bonds: High Yield,2006,18.7%
+Bonds: High Yield,2007,18.1%
+Bonds: High Yield,2008,16.6%
+Bonds: High Yield,2009,17.8%
+Bonds: High Yield,2010,18.4%
+Bonds: High Yield,2011,18.3%
+Bonds: High Yield,2012,17.7%
+Bonds: High Yield,2013,17.2%
+Bonds: High Yield,2014,17.0%
+Bonds: High Yield,2015,15.9%
+Bonds: High Yield,2016,15.8%
+Bonds: High Yield,2017,15.9%
+Bonds: High Yield,2018,15.2%
+Bonds: High Yield,2019,9.1%
+Cash & Near: Savings,1990,1.2%
+Cash & Near: Savings,1991,1.2%
+Cash & Near: Savings,1992,1.2%
+Cash & Near: Savings,1993,1.2%
+Cash & Near: Savings,1994,1.2%
+Cash & Near: Savings,1995,1.2%
+Cash & Near: Savings,1996,1.2%
+Cash & Near: Savings,1997,1.2%
+Cash & Near: Savings,1998,1.2%
+Cash & Near: Savings,1999,1.2%
+Cash & Near: Savings,2000,1.2%
+Cash & Near: Savings,2001,1.2%
+Cash & Near: Savings,2002,1.2%
+Cash & Near: Savings,2003,1.2%
+Cash & Near: Savings,2004,1.2%
+Cash & Near: Savings,2005,1.2%
+Cash & Near: Savings,2006,1.2%
+Cash & Near: Savings,2007,1.2%
+Cash & Near: Savings,2008,1.2%
+Cash & Near: Savings,2009,1.2%
+Cash & Near: Savings,2010,1.2%
+Cash & Near: Savings,2011,1.2%
+Cash & Near: Savings,2012,1.2%
+Cash & Near: Savings,2013,1.2%
+Cash & Near: Savings,2014,1.2%
+Cash & Near: Savings,2015,1.2%
+Cash & Near: Savings,2016,1.2%
+Cash & Near: Savings,2017,1.2%
+Cash & Near: Savings,2018,1.2%
+Cash & Near: Savings,2019,1.2%
+Metals: Iron Ore,1990,1.7%
+Metals: Iron Ore,1991,2.2%
+Metals: Iron Ore,1992,1.6%
+Metals: Iron Ore,1993,0.7%
+Metals: Iron Ore,1994,0.0%
+Metals: Iron Ore,1995,0.5%
+Metals: Iron Ore,1996,0.8%
+Metals: Iron Ore,1997,0.8%
+Metals: Iron Ore,1998,0.9%
+Metals: Iron Ore,1999,0.3%
+Metals: Iron Ore,2000,0.5%
+Metals: Iron Ore,2001,0.6%
+Metals: Iron Ore,2002,0.5%
+Metals: Iron Ore,2003,0.9%
+Metals: Iron Ore,2004,1.6%
+Metals: Iron Ore,2005,4.3%
+Metals: Iron Ore,2006,4.8%
+Metals: Iron Ore,2007,5.0%
+Metals: Iron Ore,2008,7.2%
+Metals: Iron Ore,2009,7.9%
+Metals: Iron Ore,2010,10.7%
+Metals: Iron Ore,2011,11.2%
+Metals: Iron Ore,2012,9.9%
+Metals: Iron Ore,2013,10.4%
+Metals: Iron Ore,2014,9.8%
+Metals: Iron Ore,2015,8.3%
+Metals: Iron Ore,2016,8.5%
+Metals: Iron Ore,2017,8.9%
+Metals: Iron Ore,2018,9.4%
+Metals: Iron Ore,2019,9.2%
+Stocks: NASDAQ,1990,2.1%
+Stocks: NASDAQ,1991,4.4%
+Stocks: NASDAQ,1992,4.8%
+Stocks: NASDAQ,1993,5.1%
+Stocks: NASDAQ,1994,4.7%
+Stocks: NASDAQ,1995,5.9%
+Stocks: NASDAQ,1996,6.4%
+Stocks: NASDAQ,1997,6.9%
+Stocks: NASDAQ,1998,8.0%
+Stocks: NASDAQ,1999,10.5%
+Stocks: NASDAQ,2000,8.8%
+Stocks: NASDAQ,2001,8.0%
+Stocks: NASDAQ,2002,6.5%
+Stocks: NASDAQ,2003,9.3%
+Stocks: NASDAQ,2004,10.9%
+Stocks: NASDAQ,2005,10.1%
+Stocks: NASDAQ,2006,9.6%
+Stocks: NASDAQ,2007,9.8%
+Stocks: NASDAQ,2008,8.3%
+Stocks: NASDAQ,2009,9.2%
+Stocks: NASDAQ,2010,9.1%
+Stocks: NASDAQ,2011,9.3%
+Stocks: NASDAQ,2012,9.3%
+Stocks: NASDAQ,2013,10.0%
+Stocks: NASDAQ,2014,10.9%
+Stocks: NASDAQ,2015,10.2%
+Stocks: NASDAQ,2016,10.2%
+Stocks: NASDAQ,2017,11.3%
+Stocks: NASDAQ,2018,10.8%
+Stocks: NASDAQ,2019,11.4%
+REIT: Industrial,1990,0.0%
+REIT: Industrial,1991,0.0%
+REIT: Industrial,1992,0.0%
+REIT: Industrial,1993,0.0%
+REIT: Industrial,1994,18.7%
+REIT: Industrial,1995,17.4%
+REIT: Industrial,1996,24.0%
+REIT: Industrial,1997,22.8%
+REIT: Industrial,1998,15.9%
+REIT: Industrial,1999,13.9%
+REIT: Industrial,2000,16.0%
+REIT: Industrial,2001,14.9%
+REIT: Industrial,2002,15.2%
+REIT: Industrial,2003,17.0%
+REIT: Industrial,2004,18.5%
+REIT: Industrial,2005,18.3%
+REIT: Industrial,2006,19.1%
+REIT: Industrial,2007,17.8%
+REIT: Industrial,2008,12.1%
+REIT: Industrial,2009,12.1%
+REIT: Industrial,2010,12.5%
+REIT: Industrial,2011,11.5%
+REIT: Industrial,2012,12.5%
+REIT: Industrial,2013,12.3%
+REIT: Industrial,2014,12.7%
+REIT: Industrial,2015,12.2%
+REIT: Industrial,2016,13.0%
+REIT: Industrial,2017,13.4%
+REIT: Industrial,2018,12.7%
+REIT: Industrial,2019,14.1%
+REIT: Residential,1990,0.0%
+REIT: Residential,1991,0.0%
+REIT: Residential,1992,0.0%
+REIT: Residential,1993,0.0%
+REIT: Residential,1994,2.3%
+REIT: Residential,1995,7.2%
+REIT: Residential,1996,14.6%
+REIT: Residential,1997,15.0%
+REIT: Residential,1998,10.4%
+REIT: Residential,1999,10.2%
+REIT: Residential,2000,13.7%
+REIT: Residential,2001,13.1%
+REIT: Residential,2002,11.0%
+REIT: Residential,2003,12.5%
+REIT: Residential,2004,14.3%
+REIT: Residential,2005,14.3%
+REIT: Residential,2006,16.2%
+REIT: Residential,2007,13.2%
+REIT: Residential,2008,10.7%
+REIT: Residential,2009,11.9%
+REIT: Residential,2010,13.9%
+REIT: Residential,2011,14.0%
+REIT: Residential,2012,13.6%
+REIT: Residential,2013,12.7%
+REIT: Residential,2014,14.0%
+REIT: Residential,2015,14.1%
+REIT: Residential,2016,13.7%
+REIT: Residential,2017,13.4%
+REIT: Residential,2018,13.0%
+REIT: Residential,2019,13.7%
+REIT: Storage,1990,0.0%
+REIT: Storage,1991,0.0%
+REIT: Storage,1992,0.0%
+REIT: Storage,1993,0.0%
+REIT: Storage,1994,8.9%
+REIT: Storage,1995,21.6%
+REIT: Storage,1996,28.7%
+REIT: Storage,1997,22.4%
+REIT: Storage,1998,16.5%
+REIT: Storage,1999,12.4%
+REIT: Storage,2000,12.7%
+REIT: Storage,2001,16.5%
+REIT: Storage,2002,14.8%
+REIT: Storage,2003,17.1%
+REIT: Storage,2004,18.2%
+REIT: Storage,2005,18.9%
+REIT: Storage,2006,20.6%
+REIT: Storage,2007,17.4%
+REIT: Storage,2008,16.6%
+REIT: Storage,2009,16.0%
+REIT: Storage,2010,16.8%
+REIT: Storage,2011,17.8%
+REIT: Storage,2012,18.0%
+REIT: Storage,2013,17.5%
+REIT: Storage,2014,18.2%
+REIT: Storage,2015,19.2%
+REIT: Storage,2016,18.0%
+REIT: Storage,2017,17.4%
+REIT: Storage,2018,16.9%
+REIT: Storage,2019,16.7%
+Stocks: S&P 500,1990,11.2%
+Stocks: S&P 500,1991,11.4%
+Stocks: S&P 500,1992,11.9%
+Stocks: S&P 500,1993,11.5%
+Stocks: S&P 500,1994,11.0%
+Stocks: S&P 500,1995,11.8%
+Stocks: S&P 500,1996,12.9%
+Stocks: S&P 500,1997,13.2%
+Stocks: S&P 500,1998,13.8%
+Stocks: S&P 500,1999,14.8%
+Stocks: S&P 500,2000,14.3%
+Stocks: S&P 500,2001,13.5%
+Stocks: S&P 500,2002,12.1%
+Stocks: S&P 500,2003,13.5%
+Stocks: S&P 500,2004,14.8%
+Stocks: S&P 500,2005,13.7%
+Stocks: S&P 500,2006,13.4%
+Stocks: S&P 500,2007,13.8%
+Stocks: S&P 500,2008,12.4%
+Stocks: S&P 500,2009,12.6%
+Stocks: S&P 500,2010,12.1%
+Stocks: S&P 500,2011,12.3%
+Stocks: S&P 500,2012,12.2%
+Stocks: S&P 500,2013,12.5%
+Stocks: S&P 500,2014,12.7%
+Stocks: S&P 500,2015,11.7%
+Stocks: S&P 500,2016,11.5%
+Stocks: S&P 500,2017,12.0%
+Stocks: S&P 500,2018,11.3%
+Stocks: S&P 500,2019,11.3%
+Metals: Silver,1990,12.4%
+Metals: Silver,1991,11.9%
+Metals: Silver,1992,11.2%
+Metals: Silver,1993,12.0%
+Metals: Silver,1994,11.9%
+Metals: Silver,1995,12.2%
+Metals: Silver,1996,11.9%
+Metals: Silver,1997,10.8%
+Metals: Silver,1998,10.7%
+Metals: Silver,1999,10.8%
+Metals: Silver,2000,10.9%
+Metals: Silver,2001,11.0%
+Metals: Silver,2002,9.8%
+Metals: Silver,2003,8.1%
+Metals: Silver,2004,8.0%
+Metals: Silver,2005,8.5%
+Metals: Silver,2006,10.2%
+Metals: Silver,2007,10.5%
+Metals: Silver,2008,10.0%
+Metals: Silver,2009,1.0%
+Metals: Silver,2010,3.0%
+Metals: Silver,2011,7.2%
+Metals: Silver,2012,5.9%
+Metals: Silver,2013,5.6%
+Metals: Silver,2014,5.8%
+Metals: Silver,2015,5.6%
+Metals: Silver,2016,6.2%
+Metals: Silver,2017,5.3%
+Metals: Silver,2018,5.4%
+Metals: Silver,2019,5.8%
+Metals: Steel,1990,4.8%
+Metals: Steel,1991,5.0%
+Metals: Steel,1992,4.3%
+Metals: Steel,1993,4.5%
+Metals: Steel,1994,4.6%
+Metals: Steel,1995,4.6%
+Metals: Steel,1996,4.6%
+Metals: Steel,1997,4.7%
+Metals: Steel,1998,4.5%
+Metals: Steel,1999,3.9%
+Metals: Steel,2000,3.7%
+Metals: Steel,2001,3.2%
+Metals: Steel,2002,3.8%
+Metals: Steel,2003,3.3%
+Metals: Steel,2004,3.8%
+Metals: Steel,2005,4.7%
+Metals: Steel,2006,5.3%
+Metals: Steel,2007,4.4%
+Metals: Steel,2008,5.4%
+Metals: Steel,2009,4.4%
+Metals: Steel,2010,4.5%
+Metals: Steel,2011,4.2%
+Metals: Steel,2012,4.1%
+Metals: Steel,2013,3.6%
+Metals: Steel,2014,3.1%
+Metals: Steel,2015,1.6%
+Metals: Steel,2016,3.5%
+Metals: Steel,2017,4.8%
+Metals: Steel,2018,5.2%
+Metals: Steel,2019,4.0%
+Cash & Near: US T-Bond,1990,6.7%
+Cash & Near: US T-Bond,1991,7.1%
+Cash & Near: US T-Bond,1992,7.3%
+Cash & Near: US T-Bond,1993,7.7%
+Cash & Near: US T-Bond,1994,7.3%
+Cash & Near: US T-Bond,1995,8.1%
+Cash & Near: US T-Bond,1996,8.0%
+Cash & Near: US T-Bond,1997,8.4%
+Cash & Near: US T-Bond,1998,8.8%
+Cash & Near: US T-Bond,1999,8.7%
+Cash & Near: US T-Bond,2000,8.7%
+Cash & Near: US T-Bond,2001,8.5%
+Cash & Near: US T-Bond,2002,8.9%
+Cash & Near: US T-Bond,2003,8.8%
+Cash & Near: US T-Bond,2004,8.9%
+Cash & Near: US T-Bond,2005,8.9%
+Cash & Near: US T-Bond,2006,8.4%
+Cash & Near: US T-Bond,2007,8.7%
+Cash & Near: US T-Bond,2008,9.4%
+Cash & Near: US T-Bond,2009,9.0%
+Cash & Near: US T-Bond,2010,9.4%
+Cash & Near: US T-Bond,2011,9.7%
+Cash & Near: US T-Bond,2012,8.7%
+Cash & Near: US T-Bond,2013,8.3%
+Cash & Near: US T-Bond,2014,8.2%
+Cash & Near: US T-Bond,2015,7.3%
+Cash & Near: US T-Bond,2016,6.6%
+Cash & Near: US T-Bond,2017,6.8%
+Cash & Near: US T-Bond,2018,6.5%
+Cash & Near: US T-Bond,2019,6.3%
