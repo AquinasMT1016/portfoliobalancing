@@ -66,6 +66,15 @@ byyear.summary[,3]<- as.numeric(gsub("%","",byyear.summary[,3]))
 byyear.summary$AssetType<-as.factor(byyear.summary$AssetType)
 
 
+
+retirement.raw <- read.csv("Retirement.csv",header=TRUE)
+names(retirement.raw)[1]<-paste("Model")
+retirement.raw <- retirement.raw[1:3]
+retirement.raw[,3] <- as.numeric(gsub("%","",retirement.raw[,3]))
+retirement.raw$Model <- as.factor(retirement.raw$Model)
+
+
+
 summarydf <- read.csv("summaryData.csv",header=TRUE)
 names(summarydf)[1]<-paste("AssetType")
 summarydf<-summarydf[1:3]
@@ -210,5 +219,20 @@ k <- ggplot(data=summarydf, aes(x = Year, y = Growth, color = AssetType))+
         
         print(k)
 ggsave("Per Year Asset Facet.png",height = 10,width = 10)
+
+
+
+l <- ggplot(data=retirement.raw, aes(x = Year, y = Growth, color = Model))+
+        geom_jitter(alpha=0.7)+
+        geom_smooth()+
+        ggtitle("Testing Model vs. Common Investment Strategies")+
+        xlim(1990,2019)+
+        ylim(5,50)+
+        xlab("Year")+
+        ylab("Index Value")+
+        
+        
+        print(l)
+ggsave("Models Testing.png",height = 10,width = 10)
 
 
